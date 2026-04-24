@@ -12,7 +12,6 @@ Many incredible 4093-based projects have already been documented and discussed o
 * **Lemonster**: An open-source, 3D-printed educational toy that uses fruit/vegetable electrolysis to power a simple analog sound circuit.
 * **SGMK's Micro-Noise**: The classic and beloved miniaturized noise-making circuit.
 * **micronoise Pro**: [more complex noises than the original one](https://wiki.sgmk-ssam.ch/wiki/Micronoise_pro)
-* **10 Year anniversary edition** by Urs Gaudenz
 * **microNoise_SZ-Ready** [New design, kicad, gerber for manufacturing](https://github.com/sgmk/microNoise_SZ-Ready)
 * **Hand-drawn circuits and collage**: [dusjagr's hotglue page](https://dusjagr.hotglue.me/)
 * **Vive-la-Resistance (NanoSmano Sajica)**: A project introducing nanotechnology and circuit fabrication (like DIY photolithography) where participants design their own electrodes.
@@ -21,4 +20,5 @@ Many incredible 4093-based projects have already been documented and discussed o
 * **Fish Simulator (BrainHack)**: A circuit that uses skin resistance to control the oscillation of a 4093 NAND gate, visualizing the output with LEDs.
 * **Mosscillator**: A bio-electronic resistance-noise toy by Stefanie Wuschitz, famously featured in "Homemade Biological Art".
 
+* **10 Year anniversary edition** by Urs Gaudenz, remote workshop Zurich-Yogyakarta
 ![10 Years SGMK at remoteYogya](./SGMK_classic_photos/10Years_SGMK_remoteYogya.png)
