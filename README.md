@@ -14,6 +14,7 @@ Many incredible 4093-based projects have already been documented and discussed o
 * **micronoise Pro**: [more complex noises than the original one](https://wiki.sgmk-ssam.ch/wiki/Micronoise_pro)
 * **10 Year anniversary edition** by Urs Gaudenz
 * **microNoise_SZ-Ready** [New design, kicad, gerber for manufacturing](https://github.com/sgmk/microNoise_SZ-Ready)
+* **Hand-drawn circuits and collage: [dusjagr's hotglue page](https://dusjagr.hotglue.me/)
 * **Vive-la-Resistance (NanoSmano Sajica)**: A project introducing nanotechnology and circuit fabrication (like DIY photolithography) where participants design their own electrodes.
 * **Jesus-on-Wires (PIFcamp Plant Analyzer)**: A tiny SMD-based modification of the NanoSmano circuit used to sonify the resistance of plants.
 * **Werde Teil des Gesamtwiderstandes ("Become part of the Total Resistance")**: A simple, elegant analog synthesizer by Christian Faubel and Ralf Schreiber using resistor-capacitor feedback loops.
