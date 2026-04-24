@@ -1,4 +1,5 @@
 # forever4093geeking
+<img src="4093-forever.png" alt="Preview" width="400">
 Collecting stories of 4093 works and experiments from the globe
 
 ## DIYmakeaway - since 2007 by Swiss Mechatronic Art Society
@@ -25,3 +26,5 @@ Many incredible 4093-based projects have already been documented and discussed o
 
 * **10 Year anniversary edition** by Urs Gaudenz, remote workshop Zurich-Yogyakarta
 ![10 Years SGMK at remoteYogya](./SGMK_classic_photos/10Years_SGMK_remoteYogya.png)
+* **Awikworks** [More details here](https://awikworks.github.io/projects/)
+* **Prewangan** [More details here](https://www.instagram.com/prewangan_studio/)
