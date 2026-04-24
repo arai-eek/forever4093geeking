@@ -22,5 +22,5 @@ Many incredible 4093-based projects have already been documented and discussed o
 
 * **10 Year anniversary edition** by Urs Gaudenz, remote workshop Zurich-Yogyakarta
 ![10 Years SGMK at remoteYogya](./SGMK_classic_photos/10Years_SGMK_remoteYogya.png)
-* **Awikworks** [More details here] (https://awikworks.github.io/projects/)
-* **Prewangan** [More details here] (https://www.instagram.com/prewangan_studio/)
+* **Awikworks** [More details here](https://awikworks.github.io/projects/)
+* **Prewangan** [More details here](https://www.instagram.com/prewangan_studio/)
