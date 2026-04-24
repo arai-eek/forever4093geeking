@@ -1,5 +1,6 @@
 # forever4093geeking
 ![4093](4093-forever.png)
+<img src="4093-forever.png" alt="Preview" width="500">
 Collecting stories of 4093 works and experiments from the globe
 
 ## DIYmakeaway - since 2007 by Swiss Mechatronic Art Society
